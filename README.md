@@ -6,7 +6,7 @@ My profile: [h3xar0n](https://www.codewars.com/users/h3xar0n)
 
 ### 7th kyu
 - [x] [Image Files Only](https://www.codewars.com/kata/image-files-only/train/javascript/597ce9c2b77124c54d000014)
-- [] [Find the Stray Number](https://www.codewars.com/kata/57f609022f4d534f05000024)
+- [x] [Find the Stray Number](https://www.codewars.com/kata/57f609022f4d534f05000024)
 - [] [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 - [] [You're the Square](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 - [] [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
