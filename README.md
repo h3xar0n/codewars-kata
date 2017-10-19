@@ -5,8 +5,14 @@ My profile: [h3xar0n](https://www.codewars.com/users/h3xar0n)
 ## JavaScript
 
 ### 7th kyu
-
-
+- [] [Image Files Only](https://www.codewars.com/kata/image-files-only/train/javascript/597ce9c2b77124c54d000014)
+- [] [Find the Stray Number](https://www.codewars.com/kata/57f609022f4d534f05000024)
+- [] [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+- [] [You're the Square](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+- [] [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+- [] [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+- [] [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [] [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
 
 ### 8th kyu
 
