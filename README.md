@@ -7,7 +7,8 @@ My profile: [h3xar0n](https://www.codewars.com/users/h3xar0n)
 ### 7th kyu
 
 ### 8th kyu
-[Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
+-[x] [Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)
+-[x] [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 
 ## Ruby
 
