@@ -12,6 +12,7 @@ My profile: [h3xar0n](https://www.codewars.com/users/h3xar0n)
 - [x] [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c)
 - [x] [Sum of a Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 - [x] [Opposite Number](https://www.codewars.com/kata/56dec885c54a926dcd001095)
+- [x] [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 
 ## Ruby
 
